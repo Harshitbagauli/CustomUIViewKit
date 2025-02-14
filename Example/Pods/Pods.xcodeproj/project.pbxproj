@@ -8,10 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		00EE57BF351F7A92009F860533BE0D98 /* Pods-CustomUIViewKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A34A988DE35F187B4DDC91FD922C35D6 /* Pods-CustomUIViewKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		185EF3DA2D5F665600673EAA /* CustomUITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF3D92D5F665600673EAA /* CustomUITextField.swift */; };
-		185EF3DC2D5F665B00673EAA /* CustomUITextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF3DB2D5F665B00673EAA /* CustomUITextView.swift */; };
-		185EF3DE2D5F666000673EAA /* CustomUIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF3DD2D5F666000673EAA /* CustomUIButton.swift */; };
-		185EF3E02D5F666600673EAA /* CustomUIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF3DF2D5F666600673EAA /* CustomUIImageView.swift */; };
+		185EF3E92D5F71A800673EAA /* CustomUITextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF3E82D5F71A800673EAA /* CustomUITextView.swift */; };
+		185EF3EA2D5F71A800673EAA /* CustomUIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF3E52D5F71A800673EAA /* CustomUIButton.swift */; };
+		185EF3EB2D5F71A800673EAA /* CustomUIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF3E62D5F71A800673EAA /* CustomUIImageView.swift */; };
+		185EF3EC2D5F71A800673EAA /* CustomUITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF3E72D5F71A800673EAA /* CustomUITextField.swift */; };
 		1EF2402B64D81469EDF77BB47105127A /* CustomUIViewKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 91358C2B1C31E7BC66D48AD32AC4254D /* CustomUIViewKit-dummy.m */; };
 		1F61064A520D7DB86050EE3BCA53C804 /* CustomUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203FE7E0DA77D9D9F461B73CA3EEA1E6 /* CustomUIView.swift */; };
 		22D33EF9DC29432B2BC4C1DADD3F4CC6 /* CustomUIViewKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B93AF73A7CE5AA2909019F8C287E316 /* CustomUIViewKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -49,10 +49,10 @@
 		16C096571E06316E7CE7339810F5337A /* ArrowPosition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ArrowPosition.swift; path = CustomUIViewKit/Classes/ArrowPosition.swift; sourceTree = "<group>"; };
 		17A5FBAEF04DAF49C2AC22B8F221C5D1 /* Pods-CustomUIViewKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CustomUIViewKit_Tests-dummy.m"; sourceTree = "<group>"; };
 		180C7C366399CA9F9DCF4FDD0F202277 /* Pods-CustomUIViewKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CustomUIViewKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		185EF3D92D5F665600673EAA /* CustomUITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomUITextField.swift; sourceTree = "<group>"; };
-		185EF3DB2D5F665B00673EAA /* CustomUITextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomUITextView.swift; sourceTree = "<group>"; };
-		185EF3DD2D5F666000673EAA /* CustomUIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomUIButton.swift; sourceTree = "<group>"; };
-		185EF3DF2D5F666600673EAA /* CustomUIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomUIImageView.swift; sourceTree = "<group>"; };
+		185EF3E52D5F71A800673EAA /* CustomUIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomUIButton.swift; path = CustomUIViewKit/Classes/CustomUIButton.swift; sourceTree = "<group>"; };
+		185EF3E62D5F71A800673EAA /* CustomUIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomUIImageView.swift; path = CustomUIViewKit/Classes/CustomUIImageView.swift; sourceTree = "<group>"; };
+		185EF3E72D5F71A800673EAA /* CustomUITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomUITextField.swift; path = CustomUIViewKit/Classes/CustomUITextField.swift; sourceTree = "<group>"; };
+		185EF3E82D5F71A800673EAA /* CustomUITextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomUITextView.swift; path = CustomUIViewKit/Classes/CustomUITextView.swift; sourceTree = "<group>"; };
 		203FE7E0DA77D9D9F461B73CA3EEA1E6 /* CustomUIView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CustomUIView.swift; path = CustomUIViewKit/Classes/CustomUIView.swift; sourceTree = "<group>"; };
 		2B48AA82C3A5292A00ABC673892BE458 /* Pods-CustomUIViewKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CustomUIViewKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		2E72EBEAE5D50300F4D07EC0E266A399 /* Pods-CustomUIViewKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CustomUIViewKit_Example.modulemap"; sourceTree = "<group>"; };
@@ -147,10 +147,10 @@
 			children = (
 				16C096571E06316E7CE7339810F5337A /* ArrowPosition.swift */,
 				203FE7E0DA77D9D9F461B73CA3EEA1E6 /* CustomUIView.swift */,
-				185EF3D92D5F665600673EAA /* CustomUITextField.swift */,
-				185EF3DB2D5F665B00673EAA /* CustomUITextView.swift */,
-				185EF3DD2D5F666000673EAA /* CustomUIButton.swift */,
-				185EF3DF2D5F666600673EAA /* CustomUIImageView.swift */,
+				185EF3E52D5F71A800673EAA /* CustomUIButton.swift */,
+				185EF3E62D5F71A800673EAA /* CustomUIImageView.swift */,
+				185EF3E72D5F71A800673EAA /* CustomUITextField.swift */,
+				185EF3E82D5F71A800673EAA /* CustomUITextView.swift */,
 				F6BEB741668A3151AA1342B31965B2C3 /* UITextField+Icon.swift */,
 				E66645F17431A40850E534D212AB85C2 /* Pod */,
 				C9864A7C49BEEA81F697C5E6E51513AB /* Support Files */,
@@ -406,13 +406,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				3685AB55E63B95576D59FC469AC4F3BA /* ArrowPosition.swift in Sources */,
-				185EF3DC2D5F665B00673EAA /* CustomUITextView.swift in Sources */,
-				185EF3DA2D5F665600673EAA /* CustomUITextField.swift in Sources */,
 				1F61064A520D7DB86050EE3BCA53C804 /* CustomUIView.swift in Sources */,
-				185EF3DE2D5F666000673EAA /* CustomUIButton.swift in Sources */,
 				1EF2402B64D81469EDF77BB47105127A /* CustomUIViewKit-dummy.m in Sources */,
 				F1E10B40B761EE728EECBA5F25177865 /* UITextField+Icon.swift in Sources */,
-				185EF3E02D5F666600673EAA /* CustomUIImageView.swift in Sources */,
+				185EF3E92D5F71A800673EAA /* CustomUITextView.swift in Sources */,
+				185EF3EA2D5F71A800673EAA /* CustomUIButton.swift in Sources */,
+				185EF3EB2D5F71A800673EAA /* CustomUIImageView.swift in Sources */,
+				185EF3EC2D5F71A800673EAA /* CustomUITextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
