@@ -1,0 +1,16 @@
+PODS:
+  - CustomUIViewKit (0.1.0)
+
+DEPENDENCIES:
+  - CustomUIViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  CustomUIViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomUIViewKit: 0d1cf63f9712b2f9e889b300e383026a3765408a
+
+PODFILE CHECKSUM: 28174cbebe6258aeb0e3654e06487349efc9a584
+
+COCOAPODS: 1.16.2
