@@ -1,23 +1,24 @@
 {
   "name": "CustomUIViewKit",
-  "version": "0.1.0",
-  "summary": "A customizable UIView library with gradients, borders, and icons support.",
-  "description": "This library provides easy-to-use UIView components with corner radius, shadows, gradient backgrounds, and custom icons on text fields.",
-  "homepage": "https://github.com/yourgithub/CustomUIViewKit",
+  "version": "1.0.0",
+  "summary": "A custom UI view library for iOS.",
+  "description": "Provides support for corner radius, shadows, gradients, and arrow shapes.",
+  "homepage": "https://github.com/Harshitbagauli/CustomUIViewKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "Your Name": "bagauliharshit0@email.com"
+    "Your Name": "bagauliharshit0@gmail.com"
   },
   "source": {
-    "git": "https://github.com/yourgithub/CustomUIViewKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/Harshitbagauli/CustomUIViewKit",
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "12.0"
   },
-  "source_files": "**/Classes/**/*",
-  "frameworks": "UIKit"
+  "source_files": "CustomUIViewKit/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
 }

@@ -1,5 +1,5 @@
 PODS:
-  - CustomUIViewKit (0.1.0)
+  - CustomUIViewKit (1.0.0)
 
 DEPENDENCIES:
   - CustomUIViewKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CustomUIViewKit: 0d1cf63f9712b2f9e889b300e383026a3765408a
+  CustomUIViewKit: 9f552f46e3e57a4f15f0c88404e1762f70b14da6
 
 PODFILE CHECKSUM: 28174cbebe6258aeb0e3654e06487349efc9a584
 

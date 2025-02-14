@@ -16,8 +16,15 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        arrawView.arrowColor = .brown
-        arrawView.arrowPosition = .topCenter
+
+        let button = CustomUIButton()
+        button.setTitle("Click Me", for: .normal)
+        button.cornerRadius = 12
+        button.borderColor = .black
+        button.startColor = .red
+        button.endColor = .yellow
+        button.frame = CGRect(x: 50, y: 100, width: 200, height: 50)
+        view.addSubview(button)
     }
 
     override func didReceiveMemoryWarning() {
